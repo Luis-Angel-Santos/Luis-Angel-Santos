@@ -13,6 +13,8 @@ Aquí puedes ver mi [portafolio!](https://luis-angel-santos.netlify.app/)
 
 - :earth_americas: Soy de Tlaxcala, México
 - :computer: Ing. en Desarrollo y Gestión del Software
+- :video_game: Amante de los videojuegos
+- :musical_note: Le encanta la musica
 
 ## Conocimientos
 
@@ -21,6 +23,6 @@ Aquí puedes ver mi [portafolio!](https://luis-angel-santos.netlify.app/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&linkhttps://github.com/Luis-Angel-Santos/)](https://github.com/Luis-Angel-Santos/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/Luis-Angel-Santos/)](https://github.com/Luis-Angel-Santos/)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/Luis-Angel-Santos/)](https://github.com/Luis-Angel-Santos/)
-[![Angular](https://img.shields.io/endpoint?color=red&label=Angular&logo=Angular&style=social)](https://github.com/Luis-Angel-Santos/)
-[![TypeScript](https://img.shields.io/endpoint?color=red&label=TypeScript&logo=TypeScript&style=social)](https://github.com/Luis-Angel-Santos/)
-[![Firebase](https://img.shields.io/endpoint?color=yellow&label=firebase&logo=Firebase&style=for-the-badge)](https://github.com/Luis-Angel-Santos/)
+[![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular&link=https://github.com/Luis-Angel-Santos/)](https://github.com/Luis-Angel-Santos/)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript&link=https://github.com/Luis-Angel-Santos/)](https://github.com/Luis-Angel-Santos/)
+[![Firebase](https://img.shields.io/badge/-Firebase-blaclk?style=flat-square&logo=firebase&link=https://github.com/Luis-Angel-Santos/)](https://github.com/Luis-Angel-Santos/)
