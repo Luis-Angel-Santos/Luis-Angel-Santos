@@ -29,3 +29,7 @@ Aquí puedes ver mi [portafolio!](https://luis-angel-santos.netlify.app/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-gray?style=flat-square&logo=mongodb&link=https://github.com/Luis-Angel-Santos/)](https://github.com/Luis-Angel-Santos/)
 [![NodeJS](https://img.shields.io/badge/-NodeJS-black?style=flat-square&logo=node.js&link=https://github.com/Luis-Angel-Santos/)](https://github.com/Luis-Angel-Santos/)
 [![Firebase](https://img.shields.io/badge/-Firebase-gray?style=flat-square&logo=firebase&link=https://github.com/Luis-Angel-Santos/)](https://github.com/Luis-Angel-Santos/)
+
+##
+![Mis estadísticas](https://github-readme-stats.vercel.app/api?username=Luis-Angel-Santos&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Angel-Santos&layout=compact&hide=css)](https://github.com/Luis-Angel-Santos/github-readme-stats)
