@@ -4,19 +4,19 @@
 
 
 ```
-Desarrollador de Software JR especializado en el desarrollo con Angular
+JR Software Developer specialized in Angular development.
 ```
 
-Aquí puedes ver mi [portafolio!](https://luis-angel-santos.netlify.app/)
+Here you can see my [portfolio](https://luis-angel-santos.netlify.app/)
 
-## Sobre mí
+## About me
 
-- :earth_americas: Soy de Tlaxcala, México
-- :computer: Ing. en Desarrollo y Gestión del Software
-- :video_game: Amante de los videojuegos
-- :musical_note: Le encanta la musica
+- :earth_americas: I´m from Tlaxcala, México
+- :computer: Software Development and Management Eng.
+- :video_game: Videogame lover
+- :musical_note: I love music
 
-## Conocimientos
+## Skills
 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/Luis-Angel-Santos/)](https://github.com/Luis-Angel-Santos/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/Luis-Angel-Santos/)](https://github.com/Luis-Angel-Santos/)
