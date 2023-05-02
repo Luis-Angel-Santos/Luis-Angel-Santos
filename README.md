@@ -25,8 +25,5 @@ Here you can see my [portfolio](https://luis-angel-santos.netlify.app/)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Luis-Angel-Santos&icon=5&color=1)](https://visitcount.itsvg.in)
