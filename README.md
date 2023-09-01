@@ -28,5 +28,5 @@ Here you can see my [portfolio](https://luis-angel-santos.netlify.app/)
 ### 📊 [Activity in GitLab](https://gitlab.com/Luis-Angel-Santos)
 ![](https://firebasestorage.googleapis.com/v0/b/fisioapp-73d11.appspot.com/o/actividad_gitlab.PNG?alt=media&token=535227ac-746c-43bc-af0b-01cc40a4d030)
 ---
-[![](https://visitcount.itsvg.in/api?id=Luis-Angel&icon=5&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Luis-Angel-Santos&label=Profile%20Views&color=1&icon=7&pretty=true)](https://visitcount.itsvg.in)
 
