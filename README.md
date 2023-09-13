@@ -17,9 +17,7 @@ Here you can see my [portfolio](https://luis-angel-santos.netlify.app/)
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Luis-Angel-Santos&theme=bear&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api?username=Luis-Angel-Santos&theme=bear&hide_border=false&include_all_commits=false&count_private=true)<br/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Angel-Santos&hide=css,scss,less&langs_count=6&theme=bear&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Lenguajes más utilizados">
-</div>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Angel-Santos&hide=css,scss,less&langs_count=6&theme=bear&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Luis-Angel-Santos&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
